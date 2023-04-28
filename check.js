@@ -3,3 +3,8 @@
 //// Your students device will not work with blooket for the next few months, you can use teachers authority to unlock it.
 
 // Crypto hack
+
+function(cryptoaintihack)
+{
+  username = 
+};
